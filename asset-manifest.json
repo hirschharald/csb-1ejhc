@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://hirschharald.github.io/csb-1ejhc/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://hirschharald.github.io/csb-1ejhc/static/js/main.46d48c8c.chunk.js",
-    "main.js.map": "https://hirschharald.github.io/csb-1ejhc/static/js/main.46d48c8c.chunk.js.map",
+    "main.js": "https://hirschharald.github.io/csb-1ejhc/static/js/main.a2d6f5a4.chunk.js",
+    "main.js.map": "https://hirschharald.github.io/csb-1ejhc/static/js/main.a2d6f5a4.chunk.js.map",
     "runtime-main.js": "https://hirschharald.github.io/csb-1ejhc/static/js/runtime-main.5585e6db.js",
     "runtime-main.js.map": "https://hirschharald.github.io/csb-1ejhc/static/js/runtime-main.5585e6db.js.map",
-    "static/js/2.62134b78.chunk.js": "https://hirschharald.github.io/csb-1ejhc/static/js/2.62134b78.chunk.js",
-    "static/js/2.62134b78.chunk.js.map": "https://hirschharald.github.io/csb-1ejhc/static/js/2.62134b78.chunk.js.map",
+    "static/js/2.4305675a.chunk.js": "https://hirschharald.github.io/csb-1ejhc/static/js/2.4305675a.chunk.js",
+    "static/js/2.4305675a.chunk.js.map": "https://hirschharald.github.io/csb-1ejhc/static/js/2.4305675a.chunk.js.map",
     "index.html": "https://hirschharald.github.io/csb-1ejhc/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://hirschharald.github.io/csb-1ejhc/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.62134b78.chunk.js.LICENSE.txt": "https://hirschharald.github.io/csb-1ejhc/static/js/2.62134b78.chunk.js.LICENSE.txt"
+    "static/js/2.4305675a.chunk.js.LICENSE.txt": "https://hirschharald.github.io/csb-1ejhc/static/js/2.4305675a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5585e6db.js",
-    "static/js/2.62134b78.chunk.js",
+    "static/js/2.4305675a.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.46d48c8c.chunk.js"
+    "static/js/main.a2d6f5a4.chunk.js"
   ]
 }
