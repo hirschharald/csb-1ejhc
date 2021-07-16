@@ -1,2 +1,0 @@
-(this["webpackJsonpmaterial-ui-tutorial"]=this["webpackJsonpmaterial-ui-tutorial"]||[]).push([[0],{10:function(t,e,i){"use strict";i.r(e);var r=i(1),c=i(3),a=i.n(c),n=(i(8),i(0));function o(){return Object(n.jsx)("div",{className:"App",children:Object(n.jsx)("h2",{children:"Welcome to the React Material-Ui Tutorial"})})}var s=document.getElementById("root");a.a.render(Object(n.jsx)(r.StrictMode,{children:Object(n.jsx)(o,{})}),s)},8:function(t,e,i){}},[[10,1,2]]]);
-//# sourceMappingURL=main.bc39b5a3.chunk.js.map
